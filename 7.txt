@@ -11,7 +11,7 @@ char line[1000];
 main()
 
 {
-
+zmiana7
 char operator;
 
 float value1, value2;
