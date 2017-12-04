@@ -9,7 +9,7 @@
 char line[1000];
 
 main()
-
+zmiana 6
 {
 
 char operator;
