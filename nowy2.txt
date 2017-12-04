@@ -1,6 +1,7 @@
 //u¿ytkownik podaje: liczbê1, operator: +, -, *, /, liczbê2, tzn. ./nazwa liczba1 operator liczba2
 
 #include
+zmiana2
 
 #include
 
